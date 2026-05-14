@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Maxim from Ukraine<br><br>- 🔭 I’m currently focusing on my university studies and building a solid foundation in programming.<br>- 📚 I'm currently learning C and diving deep into .NET development.<br>- ⚡ In my free time I'm learning English</p>
+<p align="left">I'm Maxim from Ukraine<br><br>- 🔭 I’m currently focusing on my university studies and building a solid foundation in programming.<br>- 📚 I'm currently learning C#.<br>- ⚡ In my free time I'm learning English</p>
 
 ###
 

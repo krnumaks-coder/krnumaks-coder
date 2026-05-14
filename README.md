@@ -65,6 +65,16 @@
 
 ###
 
+### 📊 My GitHub Stats
+
+![Maxym's GitHub stats](https://github-readme-stats.vercel.app/api?username=krnumaks-coder&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krnumaks-coder&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=krnumaks-coder&theme=dark&hide_border=true)
+
+###
+
 <div align="left">
 </div>
 
